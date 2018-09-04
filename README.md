@@ -8,7 +8,10 @@
 
 
 * Список має «голову» — перший елемент та «хвіст» — останній елемент: 
-![linked lists](https://image.ibb.co/cWfcxz/596bcbaa48271_0_I2kr_MHdnjz_Uqidwf.png)
+
+<p align="center">
+  <img src="https://image.ibb.co/cWfcxz/596bcbaa48271_0_I2kr_MHdnjz_Uqidwf.png">
+</p>
 
 #### Порівняння з масивами:
 
